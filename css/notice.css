@@ -1,0 +1,49 @@
+#customer {
+    float:left;
+    width:300px;
+    height:130px;
+    margin-top:20px;
+    margin-left:20px;
+}
+#notice {
+    float:left;
+    width:300px;
+    height:130px;
+    margin-left:30px;
+    margin-top:20px;
+}
+#faq {
+    float:left;
+    width:300px;
+    height:130px;
+    margin-left:30px;
+    margin-top:20px;
+}
+#main_page {
+    width:1000px;
+    margin:0 auto;
+}
+#customer .title {
+    float:left
+}
+#customer .more {
+    float:right
+}
+#notice .title {
+    float:left
+}
+#notice .more {
+    float:right
+}
+#notice .subject {
+    float:left;
+    margin-top:6px;
+}
+#notice .date {
+    float:right;
+    margin-top:6px;
+}
+.line {
+    border-top:solid 1px #cccccc;
+    margin-top:20px;
+}
